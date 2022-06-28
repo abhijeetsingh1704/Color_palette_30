@@ -1,4 +1,4 @@
-	"	Colors"
+	Colors
 1	#E2505E
 2	#8043DD
 3	#64BC97
